@@ -1,6 +1,6 @@
 {
-  "version": "1.2.2",
-  "download_url": "https://github.com/qq1479580225-collab/space-manager-updates/releases/download/v1.2.2/SpaceManager.zip",
-  "sha256": "147b4eadfb0af93174ebb01510102471bfff3303c50b9fff1ffb7e2a291b5cf8",
-  "release_notes": "所有 21 个工具直接显示在宽屏左侧，移除左侧完整工具箱按钮；窗口销毁时会正确取消后台刷新回调。"
+  "version": "1.3.0",
+  "download_url": "https://github.com/qq1479580225-collab/space-manager-updates/releases/download/v1.3.0/SpaceManager.zip",
+  "sha256": "dc3802b6dc741a6b044211ac3bf8e2718442ccb5db61dcbbd1583e6ae76b52cc",
+  "release_notes": "左侧 24 个工具恢复更大字号；新增磁盘健康、电池状态与电池报告、失效快捷方式检查，全部默认只读。"
 }
