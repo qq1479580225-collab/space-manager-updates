@@ -1,6 +1,6 @@
 {
-  "version": "1.1.0",
-  "download_url": "https://github.com/qq1479580225-collab/space-manager-updates/releases/download/v1.1.0/SpaceManager.zip",
-  "sha256": "a84966a38d7abe614942ca478ce0a1dd6a519b40f0b862c5895369a84b1e4067",
-  "release_notes": "新增重复文件检测、系统健康、网络诊断和窄屏工具箱；扫描与诊断均在后台运行，不会自动删除文件。"
+  "version": "1.1.1",
+  "download_url": "https://github.com/qq1479580225-collab/space-manager-updates/releases/download/v1.1.1/SpaceManager.zip",
+  "sha256": "302dac9264b9be78165cda47200d269bddba702d64b4894fd4173ff51960e27a",
+  "release_notes": "修复在线更新器在打包后缺少 ctypes 的问题；保留重复文件检测、系统健康、网络诊断和窄屏工具箱。"
 }
