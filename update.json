@@ -1,6 +1,6 @@
 {
-  "version": "1.2.0",
-  "download_url": "https://github.com/qq1479580225-collab/space-manager-updates/releases/download/v1.2.0/SpaceManager.zip",
-  "sha256": "f4c485782ee9b645589134ea08f0702cc37a978b17b8043e824bbfa0aa9bf6e5",
-  "release_notes": "大幅扩展工具箱：磁盘空间分析、空文件夹检测、浏览器扩展体检、winget 软件更新检查、用户启动项管理，以及 Windows 系统工具入口；清理扫描新增 GPU 着色器缓存和默认不勾选的崩溃报告。"
+  "version": "1.2.2",
+  "download_url": "https://github.com/qq1479580225-collab/space-manager-updates/releases/download/v1.2.2/SpaceManager.zip",
+  "sha256": "147b4eadfb0af93174ebb01510102471bfff3303c50b9fff1ffb7e2a291b5cf8",
+  "release_notes": "所有 21 个工具直接显示在宽屏左侧，移除左侧完整工具箱按钮；窗口销毁时会正确取消后台刷新回调。"
 }
