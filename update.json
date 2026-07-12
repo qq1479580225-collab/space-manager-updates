@@ -1,6 +1,6 @@
 {
-  "version": "1.4.0",
-  "download_url": "https://github.com/qq1479580225-collab/space-manager-updates/releases/download/v1.4.0/SpaceManager-1.4.0.zip",
-  "sha256": "23a7bd680634b6e89ecb2ef112ca6afe1fe5f0eb35bcd3bc49285942f2906fd2",
-  "release_notes": "修复小分辨率下工具窗口和左侧工具列表显示不完整的问题；新增更新日志；在线更新会显示下载、校验、安装进度，完成后自动重启。"
+  "version": "1.5.0",
+  "download_url": "https://github.com/qq1479580225-collab/space-manager-updates/releases/download/v1.5.0/SpaceManager-1.5.0.zip",
+  "sha256": "fb8924aa527ac29036ca3598545ceb77d28e59e641d020a7ad0e57ff8017ebea",
+  "release_notes": "更新日志已移到顶部操作区；更换了空间管家图标；新增文件校验工具；新增旧安装包与压缩镜像扫描，默认不勾选。"
 }
