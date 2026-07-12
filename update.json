@@ -1,6 +1,6 @@
 {
-  "version": "1.5.0",
-  "download_url": "https://github.com/qq1479580225-collab/space-manager-updates/releases/download/v1.5.0/SpaceManager-1.5.0.zip",
-  "sha256": "fb8924aa527ac29036ca3598545ceb77d28e59e641d020a7ad0e57ff8017ebea",
-  "release_notes": "更新日志已移到顶部操作区；更换了空间管家图标；新增文件校验工具；新增旧安装包与压缩镜像扫描，默认不勾选。"
+  "version": "1.6.0",
+  "download_url": "https://github.com/qq1479580225-collab/space-manager-updates/releases/download/v1.6.0/SpaceManager-1.6.0.zip",
+  "sha256": "5ec7d99f2265a766af563dad461d9fd7f49ebb5c0cfdab66d89e14679b5baecd",
+  "release_notes": "背景改为静态展示；全盘重复文件和全盘空文件夹会自动扫描所有本地磁盘；快速扫描新增系统临时文件、缩略图与图标缓存、Windows 更新下载缓存三类可选项目。"
 }
