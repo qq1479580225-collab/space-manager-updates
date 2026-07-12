@@ -1,6 +1,6 @@
 {
-  "version": "1.1.1",
-  "download_url": "https://github.com/qq1479580225-collab/space-manager-updates/releases/download/v1.1.1/SpaceManager.zip",
-  "sha256": "302dac9264b9be78165cda47200d269bddba702d64b4894fd4173ff51960e27a",
-  "release_notes": "修复在线更新器在打包后缺少 ctypes 的问题；保留重复文件检测、系统健康、网络诊断和窄屏工具箱。"
+  "version": "1.2.0",
+  "download_url": "https://github.com/qq1479580225-collab/space-manager-updates/releases/download/v1.2.0/SpaceManager.zip",
+  "sha256": "f4c485782ee9b645589134ea08f0702cc37a978b17b8043e824bbfa0aa9bf6e5",
+  "release_notes": "大幅扩展工具箱：磁盘空间分析、空文件夹检测、浏览器扩展体检、winget 软件更新检查、用户启动项管理，以及 Windows 系统工具入口；清理扫描新增 GPU 着色器缓存和默认不勾选的崩溃报告。"
 }
