@@ -1,6 +1,6 @@
 {
-  "version": "1.7.0",
-  "download_url": "https://github.com/qq1479580225-collab/space-manager-updates/releases/download/v1.7.0/SpaceManager-1.7.0.zip",
-  "sha256": "1c106468a534d84ba94530dc990b7aed6e1312f76360cea9ffff70144c888a8b",
-  "release_notes": "更新改为完全手动；重复文件、空文件夹和扫描明细增加右键与底部的打开位置、复制路径、移入回收站；新增图片转换压缩、JSON / Base64 文本工具、离线密码生成等实用工具。"
+  "version": "1.8.0",
+  "download_url": "https://github.com/qq1479580225-collab/space-manager-updates/releases/download/v1.8.0/SpaceManager-1.8.0.zip",
+  "sha256": "e26825a651ec138e9805b96c6a2400c9232d35de784443c502fc2a7d96bd8a3c",
+  "release_notes": "新增杀毒保护：读取 Microsoft Defender 状态、打开安全中心、一键开启实时保护；不提供一键关闭系统防护。"
 }
