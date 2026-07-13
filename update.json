@@ -1,8 +1,8 @@
 {
-  "version": "1.9.0",
-  "release_notes": "左侧工具改为可展开的分类目录；失效快捷方式可复制路径、打开所在位置或移入回收站。",
-  "download_url": "https://github.com/qq1479580225-collab/space-manager-updates/releases/download/v1.9.0/SpaceManager-1.9.0.zip",
-  "sha256": "9b73a1c28f55fc89b21a69faefc90e5e4f45d0d064b8ed72e6e89442e1641336",
-  "notes": "左侧工具改为可展开的分类目录；失效快捷方式可复制路径、打开所在位置或移入回收站。",
-  "url": "https://github.com/qq1479580225-collab/space-manager-updates/releases/download/v1.9.0/SpaceManager-1.9.0.zip"
+  "version": "2.0.0",
+  "release_notes": "完整功能扩展：新增文件查找、批量改名、进程管理、网络连接、工时收入、专注计时器和系统快捷操作。",
+  "download_url": "https://github.com/qq1479580225-collab/space-manager-updates/releases/download/v2.0.0/SpaceManager-2.0.0.zip",
+  "sha256": "945cf03f12fc3cfc5cbb8b0b83525a7e1015ad62507a577f8a4d808e11e9dc59",
+  "notes": "完整功能扩展：新增文件查找、批量改名、进程管理、网络连接、工时收入、专注计时器和系统快捷操作。",
+  "url": "https://github.com/qq1479580225-collab/space-manager-updates/releases/download/v2.0.0/SpaceManager-2.0.0.zip"
 }
