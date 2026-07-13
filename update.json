@@ -1,8 +1,8 @@
 {
-  "version": "2.0.0",
-  "release_notes": "完整功能扩展：新增文件查找、批量改名、进程管理、网络连接、工时收入、专注计时器和系统快捷操作。",
-  "download_url": "https://github.com/qq1479580225-collab/space-manager-updates/releases/download/v2.0.0/SpaceManager-2.0.0.zip",
-  "sha256": "945cf03f12fc3cfc5cbb8b0b83525a7e1015ad62507a577f8a4d808e11e9dc59",
-  "notes": "完整功能扩展：新增文件查找、批量改名、进程管理、网络连接、工时收入、专注计时器和系统快捷操作。",
-  "url": "https://github.com/qq1479580225-collab/space-manager-updates/releases/download/v2.0.0/SpaceManager-2.0.0.zip"
+  "version": "2.1.0",
+  "release_notes": "新增增量备份、ZIP 压缩与安全解压、本机健康报告和快速便签；工具目录已适配更多分类。",
+  "download_url": "https://github.com/qq1479580225-collab/space-manager-updates/releases/download/v2.1.0/SpaceManager-2.1.0.zip",
+  "sha256": "28e6643f9993cbca79752fb5bd34d61216dc25fa463d732162c08c1f39508eef",
+  "notes": "新增增量备份、ZIP 压缩与安全解压、本机健康报告和快速便签；工具目录已适配更多分类。",
+  "url": "https://github.com/qq1479580225-collab/space-manager-updates/releases/download/v2.1.0/SpaceManager-2.1.0.zip"
 }
