@@ -1,6 +1,8 @@
 {
   "version": "1.9.0",
+  "release_notes": "左侧工具改为可展开的分类目录；失效快捷方式可复制路径、打开所在位置或移入回收站。",
+  "download_url": "https://github.com/qq1479580225-collab/space-manager-updates/releases/download/v1.9.0/SpaceManager-1.9.0.zip",
+  "sha256": "9b73a1c28f55fc89b21a69faefc90e5e4f45d0d064b8ed72e6e89442e1641336",
   "notes": "左侧工具改为可展开的分类目录；失效快捷方式可复制路径、打开所在位置或移入回收站。",
-  "url": "https://github.com/qq1479580225-collab/space-manager-updates/releases/download/v1.9.0/SpaceManager-1.9.0.zip",
-  "sha256": "9b73a1c28f55fc89b21a69faefc90e5e4f45d0d064b8ed72e6e89442e1641336"
+  "url": "https://github.com/qq1479580225-collab/space-manager-updates/releases/download/v1.9.0/SpaceManager-1.9.0.zip"
 }
