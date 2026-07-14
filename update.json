@@ -1,8 +1,8 @@
 {
-  "version": "2.4.0",
-  "release_notes": "清理模块全面升级：新增扫描趋势与操作记录、空间矩形图、保守/标准/深度方案、清理撤销中心、文件占用解锁、服务管理、磁盘健康详情、下载目录归类、磁盘预警、隐私清理和可校验在线规则包；优化导航、自适应布局、运行信息框和整体界面性能。",
-  "download_url": "https://github.com/qq1479580225-collab/space-manager-updates/releases/download/v2.4.0/SpaceManager-2.4.0.zip",
-  "sha256": "ab6832fbd2db2a0ea3067dbd15f3b01d23fbc9078309a7e1b7c03f077037cf7f",
-  "notes": "此版本继续保持手动更新：只有你点击检查并确认更新后才会下载；更新包和在线清理规则都会进行 SHA256 校验。",
-  "url": "https://github.com/qq1479580225-collab/space-manager-updates/releases/download/v2.4.0/SpaceManager-2.4.0.zip"
+  "version": "2.4.1",
+  "release_notes": "修复清理异常后界面一直停在“正在清理”的问题；清理支持停止并能在失败后恢复按钮。新增功能自检和运行错误日志，耗时的残留清理、下载整理、隐私清理、结束进程与结果页回收操作全部改为后台执行；清理撤销兼容中文 Windows 回收站。",
+  "download_url": "https://github.com/qq1479580225-collab/space-manager-updates/releases/download/v2.4.1/SpaceManager-2.4.1.zip",
+  "sha256": "6647299064c9d93d2a26a52c65060eb950c86bd033ad865be59bb378fe3d8957",
+  "notes": "此版本继续保持手动更新：只有你点击检查并确认更新后才会下载；更新包会进行 SHA256 校验，更新失败不会替换当前版本。",
+  "url": "https://github.com/qq1479580225-collab/space-manager-updates/releases/download/v2.4.1/SpaceManager-2.4.1.zip"
 }
