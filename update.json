@@ -1,8 +1,8 @@
 {
-  "version": "2.3.0",
-  "release_notes": "专业清理结果页支持逐项勾选、风险分级、筛选、排序、CSV 导出和右键路径操作；新增停止扫描、管理员重启及常见软件缓存深度发现。",
-  "download_url": "https://github.com/qq1479580225-collab/space-manager-updates/releases/download/v2.3.0/SpaceManager-2.3.0.zip",
-  "sha256": "fe3494c92cbf1844844b433beedb62bab668ddbe0028bdcf35473f7b42a564d7",
-  "notes": "专业清理结果页支持逐项勾选、风险分级、筛选、排序、CSV 导出和右键路径操作；新增停止扫描、管理员重启及常见软件缓存深度发现。",
-  "url": "https://github.com/qq1479580225-collab/space-manager-updates/releases/download/v2.3.0/SpaceManager-2.3.0.zip"
+  "version": "2.3.1",
+  "release_notes": "更新器新增取消更新、关闭窗口取消、失败后关闭和重复实例保护；更新包同时包含主程序与更新器，并支持更新组件安全接管。",
+  "download_url": "https://github.com/qq1479580225-collab/space-manager-updates/releases/download/v2.3.1/SpaceManager-2.3.1.zip",
+  "sha256": "9aba1df4ee9a4e85fece72e6e99d39279e3a7dbf53acbfb962944082083d274e",
+  "notes": "更新器新增取消更新、关闭窗口取消、失败后关闭和重复实例保护；更新包同时包含主程序与更新器，并支持更新组件安全接管。",
+  "url": "https://github.com/qq1479580225-collab/space-manager-updates/releases/download/v2.3.1/SpaceManager-2.3.1.zip"
 }
