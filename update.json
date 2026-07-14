@@ -2,7 +2,7 @@
   "version": "2.3.0",
   "release_notes": "专业清理结果页支持逐项勾选、风险分级、筛选、排序、CSV 导出和右键路径操作；新增停止扫描、管理员重启及常见软件缓存深度发现。",
   "download_url": "https://github.com/qq1479580225-collab/space-manager-updates/releases/download/v2.3.0/SpaceManager-2.3.0.zip",
-  "sha256": "20417b76169c290d627b805d3a54e77d2384c0cb339f794a0546a523db2e769b",
+  "sha256": "fe3494c92cbf1844844b433beedb62bab668ddbe0028bdcf35473f7b42a564d7",
   "notes": "专业清理结果页支持逐项勾选、风险分级、筛选、排序、CSV 导出和右键路径操作；新增停止扫描、管理员重启及常见软件缓存深度发现。",
   "url": "https://github.com/qq1479580225-collab/space-manager-updates/releases/download/v2.3.0/SpaceManager-2.3.0.zip"
 }
