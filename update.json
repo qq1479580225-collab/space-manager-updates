@@ -1,8 +1,8 @@
 {
-  "version": "2.3.2",
-  "release_notes": "专业清理页新增固定运行信息框，以时间戳实时显示扫描、停止、完成和异常记录；底部汇总显示发现、当前显示、可清理、已勾选和预计释放数据。",
-  "download_url": "https://github.com/qq1479580225-collab/space-manager-updates/releases/download/v2.3.2/SpaceManager-2.3.2.zip",
-  "sha256": "10e95d07f8f53c7812f6b0aec2956a52ba7d5288f57f030d0f33ee954553a05e",
-  "notes": "专业清理页新增固定运行信息框，以时间戳实时显示扫描、停止、完成和异常记录；底部汇总显示发现、当前显示、可清理、已勾选和预计释放数据。",
-  "url": "https://github.com/qq1479580225-collab/space-manager-updates/releases/download/v2.3.2/SpaceManager-2.3.2.zip"
+  "version": "2.4.0",
+  "release_notes": "清理模块全面升级：新增扫描趋势与操作记录、空间矩形图、保守/标准/深度方案、清理撤销中心、文件占用解锁、服务管理、磁盘健康详情、下载目录归类、磁盘预警、隐私清理和可校验在线规则包；优化导航、自适应布局、运行信息框和整体界面性能。",
+  "download_url": "https://github.com/qq1479580225-collab/space-manager-updates/releases/download/v2.4.0/SpaceManager-2.4.0.zip",
+  "sha256": "ab6832fbd2db2a0ea3067dbd15f3b01d23fbc9078309a7e1b7c03f077037cf7f",
+  "notes": "此版本继续保持手动更新：只有你点击检查并确认更新后才会下载；更新包和在线清理规则都会进行 SHA256 校验。",
+  "url": "https://github.com/qq1479580225-collab/space-manager-updates/releases/download/v2.4.0/SpaceManager-2.4.0.zip"
 }

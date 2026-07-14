@@ -1,0 +1,150 @@
+{
+  "version": "2026.07.1",
+  "updated_at": "2026-07-14",
+  "rules": [
+    {
+      "key": "steam_html_cache",
+      "name": "Steam 网页缓存",
+      "description": "Steam 商店和社区页面生成的网页缓存，可重新下载",
+      "source": "Steam",
+      "item_type": "游戏平台缓存",
+      "risk": "低风险",
+      "recommendation": "建议清理",
+      "default_selected": false,
+      "paths": [
+        "%LOCALAPPDATA%\\Steam\\htmlcache\\Cache",
+        "%PROGRAMFILES(X86)%\\Steam\\appcache\\httpcache"
+      ]
+    },
+    {
+      "key": "epic_web_cache",
+      "name": "Epic Games Launcher 网页缓存",
+      "description": "Epic 启动器页面和图形缓存，可重新生成",
+      "source": "Epic Games Launcher",
+      "item_type": "游戏平台缓存",
+      "risk": "低风险",
+      "recommendation": "建议清理",
+      "default_selected": false,
+      "paths": [
+        "%LOCALAPPDATA%\\EpicGamesLauncher\\Saved\\webcache",
+        "%LOCALAPPDATA%\\EpicGamesLauncher\\Saved\\webcache_4430"
+      ]
+    },
+    {
+      "key": "spotify_cache",
+      "name": "Spotify 页面缓存",
+      "description": "仅清理 Spotify 页面缓存，不处理离线音乐和账号数据",
+      "source": "Spotify",
+      "item_type": "媒体软件缓存",
+      "risk": "低风险",
+      "recommendation": "建议清理",
+      "default_selected": false,
+      "paths": [
+        "%LOCALAPPDATA%\\Spotify\\Browser\\Cache",
+        "%APPDATA%\\Spotify\\Browser\\Cache"
+      ]
+    },
+    {
+      "key": "slack_cache",
+      "name": "Slack 页面缓存",
+      "description": "Slack 页面、代码和 GPU 缓存，不处理聊天记录",
+      "source": "Slack",
+      "item_type": "通讯软件缓存",
+      "risk": "低风险",
+      "recommendation": "建议清理",
+      "default_selected": false,
+      "paths": [
+        "%APPDATA%\\Slack\\Cache",
+        "%APPDATA%\\Slack\\Code Cache",
+        "%APPDATA%\\Slack\\GPUCache"
+      ]
+    },
+    {
+      "key": "github_desktop_cache",
+      "name": "GitHub Desktop 缓存",
+      "description": "GitHub Desktop 页面缓存，不处理本地仓库",
+      "source": "GitHub Desktop",
+      "item_type": "开发工具缓存",
+      "risk": "低风险",
+      "recommendation": "建议清理",
+      "default_selected": false,
+      "paths": [
+        "%APPDATA%\\GitHub Desktop\\Cache",
+        "%APPDATA%\\GitHub Desktop\\Code Cache",
+        "%APPDATA%\\GitHub Desktop\\GPUCache"
+      ]
+    },
+    {
+      "key": "postman_cache",
+      "name": "Postman 缓存",
+      "description": "Postman 页面和图形缓存，不处理工作区数据",
+      "source": "Postman",
+      "item_type": "开发工具缓存",
+      "risk": "低风险",
+      "recommendation": "建议清理",
+      "default_selected": false,
+      "paths": [
+        "%APPDATA%\\Postman\\Cache",
+        "%APPDATA%\\Postman\\Code Cache",
+        "%APPDATA%\\Postman\\GPUCache"
+      ]
+    },
+    {
+      "key": "battle_net_cache",
+      "name": "Battle.net 缓存",
+      "description": "Battle.net 启动器网页缓存，不处理游戏文件",
+      "source": "Battle.net",
+      "item_type": "游戏平台缓存",
+      "risk": "低风险",
+      "recommendation": "建议清理",
+      "default_selected": false,
+      "paths": [
+        "%PROGRAMDATA%\\Battle.net\\Agent\\data\\cache",
+        "%LOCALAPPDATA%\\Battle.net\\BrowserCache"
+      ]
+    },
+    {
+      "key": "unity_hub_cache",
+      "name": "Unity Hub 缓存",
+      "description": "Unity Hub 页面缓存，不处理 Unity 项目和编辑器安装",
+      "source": "Unity Hub",
+      "item_type": "开发工具缓存",
+      "risk": "低风险",
+      "recommendation": "建议清理",
+      "default_selected": false,
+      "paths": [
+        "%APPDATA%\\UnityHub\\Cache",
+        "%APPDATA%\\UnityHub\\Code Cache",
+        "%APPDATA%\\UnityHub\\GPUCache"
+      ]
+    },
+    {
+      "key": "nvidia_compute_cache",
+      "name": "NVIDIA Compute 缓存",
+      "description": "NVIDIA 应用生成的计算缓存，使用相关程序时会重新生成",
+      "source": "NVIDIA",
+      "item_type": "显卡缓存",
+      "risk": "低风险",
+      "recommendation": "建议清理",
+      "default_selected": false,
+      "paths": [
+        "%LOCALAPPDATA%\\NVIDIA\\ComputeCache",
+        "%PROGRAMDATA%\\NVIDIA Corporation\\NV_Cache"
+      ]
+    },
+    {
+      "key": "docker_desktop_logs",
+      "name": "Docker Desktop 旧日志",
+      "description": "Docker Desktop 诊断日志；排错期间请保留",
+      "source": "Docker Desktop",
+      "item_type": "开发工具日志",
+      "risk": "中风险",
+      "recommendation": "人工确认",
+      "default_selected": false,
+      "paths": [
+        "%LOCALAPPDATA%\\Docker\\log",
+        "%APPDATA%\\Docker\\log"
+      ]
+    }
+  ]
+}
