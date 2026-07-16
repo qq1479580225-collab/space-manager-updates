@@ -1,8 +1,8 @@
 {
-  "version": "2.6.0",
-  "release_notes": "新增链接与音乐工具组：链接批量整理、短链还原、状态检查、二维码、公开媒体信息、歌曲资料与标签、MusicBrainz 查询、M3U8 歌单和本地音频处理。",
-  "download_url": "https://github.com/qq1479580225-collab/space-manager-updates/releases/download/v2.6.0/SpaceManager-2.6.0.zip",
-  "sha256": "74be2f8e956ef0244e5ffca5d2ac60c3eda8091354fce3c3b6e57ac5ef0e2c90",
-  "notes": "保持手动更新：只有点击检查并确认后才会下载。媒体链接只读取公开信息，不自动下载或绕过 DRM；标签写入前会创建 .tags-backup。",
-  "url": "https://github.com/qq1479580225-collab/space-manager-updates/releases/download/v2.6.0/SpaceManager-2.6.0.zip"
+    "version":  "2.8.0",
+    "release_notes":  "Creative Playground adds Pixel Art Studio, Decision Wheel, Beat Lab, Particle Sandbox, and Reaction Challenge. All five tools run offline.",
+    "download_url":  "https://github.com/qq1479580225-collab/space-manager-updates/releases/download/v2.8.0/SpaceManager-2.8.0.zip",
+    "sha256":  "6f58234c42a50444f977c4864814405573d14aba923b7b5110db3ce17d3f77ed",
+    "notes":  "Manual update only. The new creative tools do not modify system settings; reaction scores stay on this PC.",
+    "url":  "https://github.com/qq1479580225-collab/space-manager-updates/releases/download/v2.8.0/SpaceManager-2.8.0.zip"
 }
