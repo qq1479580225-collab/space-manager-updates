@@ -1,8 +1,8 @@
 {
-    "version":  "2.8.0",
-    "release_notes":  "Creative Playground adds Pixel Art Studio, Decision Wheel, Beat Lab, Particle Sandbox, and Reaction Challenge. All five tools run offline.",
-    "download_url":  "https://github.com/qq1479580225-collab/space-manager-updates/releases/download/v2.8.0/SpaceManager-2.8.0.zip",
-    "sha256":  "6f58234c42a50444f977c4864814405573d14aba923b7b5110db3ce17d3f77ed",
-    "notes":  "Manual update only. The new creative tools do not modify system settings; reaction scores stay on this PC.",
-    "url":  "https://github.com/qq1479580225-collab/space-manager-updates/releases/download/v2.8.0/SpaceManager-2.8.0.zip"
+    "version":  "2.8.1",
+    "release_notes":  "Creative Playground now follows the selected language in the sidebar and all five tool windows. Open windows refresh immediately.",
+    "download_url":  "https://github.com/qq1479580225-collab/space-manager-updates/releases/download/v2.8.1/SpaceManager-2.8.1-update.zip",
+    "sha256":  "fbb13be49468baba668ce4ad7eb08aea9b0ecf6530cf35458ad099ca8c6ea5f5",
+    "notes":  "Manual update only. This release does not change cleanup behavior or system settings.",
+    "url":  "https://github.com/qq1479580225-collab/space-manager-updates/releases/download/v2.8.1/SpaceManager-2.8.1-update.zip"
 }
