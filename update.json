@@ -1,8 +1,8 @@
 {
-    "version":  "2.9.0",
-    "release_notes":  "新增驱动管理与故障修复：检查已安装驱动，匹配适用于本机硬件的 Windows Update 候选，并提供无声、显示模糊、网络和设备常见问题修复。",
-    "download_url":  "https://github.com/qq1479580225-collab/space-manager-updates/releases/download/v2.9.0/SpaceManager-2.9.0-update.zip",
-    "sha256":  "72a1353df7ef2c3fd26c27bc05f79955cf52a40e7c26e783ea8410f9d61dd4b9",
-    "notes":  "完全手动更新。不会自动安装、降级或删除驱动；驱动安装和故障修复均需用户确认。",
-    "url":  "https://github.com/qq1479580225-collab/space-manager-updates/releases/download/v2.9.0/SpaceManager-2.9.0-update.zip"
+    "version":  "2.9.1",
+    "release_notes":  "完整功能自检现覆盖 105 个界面入口和 32 个安全只读探针，共 137 项；同时补回扫描文件夹和导出报告按钮。",
+    "download_url":  "https://github.com/qq1479580225-collab/space-manager-updates/releases/download/v2.9.1/SpaceManager-2.9.1-update.zip",
+    "sha256":  "941394e8bd5bd046c40c96ebe31d6aed31e5cf3c0863771d1898301926b1c8e9",
+    "notes":  "完全手动更新。危险操作在功能自检中只验证入口和依赖，不会实际执行。",
+    "url":  "https://github.com/qq1479580225-collab/space-manager-updates/releases/download/v2.9.1/SpaceManager-2.9.1-update.zip"
 }
